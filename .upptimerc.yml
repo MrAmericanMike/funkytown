@@ -1,23 +1,26 @@
-# Change these first
-owner: MrAmericanMike # Your GitHub organization or username, where this repository lives
-repo: funkytown # The name of this repository
+owner: MrAmericanMike
+repo: funkytown
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Twitch·MrAmericanBot·Replit
+    url: https://TwitchBot.mramericanmike.repl.co
+  - name: Discord·MrAmericanBot·Replit
+    url: https://DiscordBot.mramericanmike.repl.co
+  - name: Discord·KoalaBot·Replit
+    url: https://KoalaBot.mramericanmike.repl.co
+  - name: Discord·GeoBottr·Render
+    url: https://geobottr.onrender.com/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  theme: dark
   baseUrl: /funkytown
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: FunkyTown
   introTitle: "**FunkyTown**"
-  introMessage: FunkyTown
+  introMessage: Monitoring bots
   navbar:
     - title: Status
-      href: /
+      href: /$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
