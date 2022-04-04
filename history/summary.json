@@ -58,19 +58,19 @@
     "url": "https://geobottr.onrender.com/",
     "icon": "https://favicons.githubusercontent.com/geobottr.onrender.com",
     "slug": "discord-geo-bottr-render",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 213,
+    "timeDay": 213,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2022-04-04": 0
+      "2022-04-04": 11
     }
   }
 ]
