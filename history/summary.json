@@ -4,27 +4,29 @@
     "url": "https://TwitchBot.mramericanmike.repl.co",
     "icon": "https://favicons.githubusercontent.com/twitchbot.mramericanmike.repl.co",
     "slug": "twitch-mr-american-bot-replit",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1004,
     "timeDay": 1578,
     "timeWeek": 1004,
     "timeMonth": 1004,
     "timeYear": 1004,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-05": 0
+    }
   },
   {
     "name": "Discord·MrAmericanBot·Replit",
     "url": "https://DiscordBot.mramericanmike.repl.co",
     "icon": "https://favicons.githubusercontent.com/discordbot.mramericanmike.repl.co",
     "slug": "discord-mr-american-bot-replit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,26 +35,28 @@
     "timeWeek": 937,
     "timeMonth": 937,
     "timeYear": 937,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-05": 0
+    }
   },
   {
     "name": "Discord·KoalaBot·Replit",
     "url": "https://KoalaBot.mramericanmike.repl.co",
     "icon": "https://favicons.githubusercontent.com/koalabot.mramericanmike.repl.co",
     "slug": "discord-koala-bot-replit",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 1440,
     "timeDay": 1887,
     "timeWeek": 1440,
     "timeMonth": 1440,
     "timeYear": 1440,
     "dailyMinutesDown": {
-      "2022-04-05": 36
+      "2022-04-05": 22
     }
   },
   {
@@ -60,19 +64,19 @@
     "url": "https://CityGuessin.mramericanmike.repl.co",
     "icon": "https://favicons.githubusercontent.com/cityguessin.mramericanmike.repl.co",
     "slug": "discord-city-guessin-bot-replit",
-    "status": "up",
-    "uptime": "94.38%",
-    "uptimeDay": "94.38%",
-    "uptimeWeek": "94.38%",
-    "uptimeMonth": "94.38%",
-    "uptimeYear": "94.38%",
+    "status": "down",
+    "uptime": "95.38%",
+    "uptimeDay": "95.38%",
+    "uptimeWeek": "95.38%",
+    "uptimeMonth": "95.38%",
+    "uptimeYear": "95.38%",
     "time": 2001,
     "timeDay": 2001,
     "timeWeek": 2001,
     "timeMonth": 2001,
     "timeYear": 2001,
     "dailyMinutesDown": {
-      "2022-04-05": 79
+      "2022-04-05": 65
     }
   },
   {
