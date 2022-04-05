@@ -40,19 +40,19 @@
     "url": "https://KoalaBot.mramericanmike.repl.co",
     "icon": "https://favicons.githubusercontent.com/koalabot.mramericanmike.repl.co",
     "slug": "discord-koala-bot-replit",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2496,
-    "timeDay": 5643,
-    "timeWeek": 2496,
-    "timeMonth": 2496,
-    "timeYear": 2496,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 2176,
+    "timeDay": 3953,
+    "timeWeek": 2176,
+    "timeMonth": 2176,
+    "timeYear": 2176,
     "dailyMinutesDown": {
-      "2022-04-05": 0
+      "2022-04-05": 9
     }
   },
   {
