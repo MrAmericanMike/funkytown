@@ -1,7 +1,7 @@
 url: https://TwitchBot.mramericanmike.repl.co
-status: up
-code: 200
-responseTime: 489
-lastUpdated: 2022-04-26T23:10:03.736Z
+status: down
+code: 502
+responseTime: 458
+lastUpdated: 2022-04-27T15:56:18.541Z
 startTime: Sun Apr 03 2022 18:31:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
