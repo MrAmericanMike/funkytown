@@ -2,16 +2,16 @@ owner: MrAmericanMike
 repo: funkytown
 
 sites:
-  - name: Twitch·MrAmericanBot·Replit
-    url: https://TwitchBot.mramericanmike.repl.co
-  - name: Discord·MrAmericanBot·Replit
-    url: https://DiscordBot.mramericanmike.repl.co
+#  - name: Twitch·MrAmericanBot·Replit
+#    url: https://TwitchBot.mramericanmike.repl.co
+#  - name: Discord·MrAmericanBot·Replit
+#    url: https://DiscordBot.mramericanmike.repl.co
   - name: Discord·KoalaBot·Replit
     url: https://KoalaBot.mramericanmike.repl.co
   - name: Discord·CityGuessinBot·Replit
     url: https://CityGuessin.mramericanmike.repl.co
-  - name: Discord·GeoBottr·Render
-    url: https://geobottr.onrender.com/
+#  - name: Discord·GeoBottr·Render
+#    url: https://geobottr.onrender.com/
 
 status-website:
   theme: dark
