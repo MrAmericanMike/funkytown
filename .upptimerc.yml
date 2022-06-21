@@ -12,6 +12,8 @@ sites:
 #    url: https://CityGuessin.mramericanmike.repl.co
 #  - name: Discord·GeoBottr·Render
 #    url: https://geobottr.onrender.com/
+  - name: Clock
+    url: https://clock.mramericanmike.repl.co
 
 status-website:
   theme: dark
