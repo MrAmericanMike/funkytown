@@ -65,19 +65,19 @@
     "url": "https://mam.onrender.com",
     "icon": "https://favicons.githubusercontent.com/mam.onrender.com",
     "slug": "render",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3007,
-    "timeDay": 7107,
-    "timeWeek": 3007,
-    "timeMonth": 3007,
-    "timeYear": 3007,
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 4770,
+    "timeDay": 9266,
+    "timeWeek": 4770,
+    "timeMonth": 4770,
+    "timeYear": 4770,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 29
     }
   }
 ]
