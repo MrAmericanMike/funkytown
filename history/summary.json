@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/koalabot.mramericanmike.repl.co",
     "slug": "discord-koala-bot-replit",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "98.84%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "97.71%",
+    "uptimeYear": "97.72%",
     "time": 2823,
     "timeDay": 1734,
     "timeWeek": 1922,
@@ -65,9 +65,9 @@
     "url": "https://mam.onrender.com",
     "icon": "https://favicons.githubusercontent.com/mam.onrender.com",
     "slug": "render",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,6 +76,8 @@
     "timeWeek": 3007,
     "timeMonth": 3007,
     "timeYear": 3007,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-13": 0
+    }
   }
 ]
