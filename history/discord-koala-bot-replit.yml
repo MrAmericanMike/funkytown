@@ -1,7 +1,7 @@
 url: https://KoalaBot.mramericanmike.repl.co
-status: up
-code: 200
-responseTime: 21682
-lastUpdated: 2022-07-15T05:13:33.637Z
+status: down
+code: 429
+responseTime: 3669
+lastUpdated: 2022-07-15T08:06:47.973Z
 startTime: Sun Apr 03 2022 18:31:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
