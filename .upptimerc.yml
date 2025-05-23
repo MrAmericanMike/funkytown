@@ -1,6 +1,5 @@
-# Change these first
-owner: MrAmericanMike # Your GitHub organization or username, where this repository lives
-repo: funkytown # The name of this repository
+owner: MrAmericanMike
+repo: funkytown
 
 sites:
   - name: MAM-Render
