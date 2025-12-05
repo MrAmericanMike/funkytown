@@ -4,17 +4,17 @@
     "url": "https://mam.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mam.onrender.com.ico",
     "slug": "mam-render",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 168,
-    "timeWeek": 187,
-    "timeMonth": 180,
-    "timeYear": 177,
+    "time": 176,
+    "timeDay": 122,
+    "timeWeek": 174,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   }
 ]
